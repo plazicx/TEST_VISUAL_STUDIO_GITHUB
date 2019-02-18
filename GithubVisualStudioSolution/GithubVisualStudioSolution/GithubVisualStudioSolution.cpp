@@ -6,6 +6,7 @@
 
 int main()
 {
+	std::cout << "Changes to commit!" << std::endl;
     std::cout << "Hello World!\n"; 
 }
 
